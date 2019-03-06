@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/portfolioz-react-template/static/js/runtime~main.8126c865.js"
   },
   {
-    "revision": "f78fe9f259f9882555b2",
-    "url": "/portfolioz-react-template/static/js/main.f78fe9f2.chunk.js"
+    "revision": "73310fb117a46d3b00ff",
+    "url": "/portfolioz-react-template/static/js/main.73310fb1.chunk.js"
   },
   {
     "revision": "5918465d849890407b23",
     "url": "/portfolioz-react-template/static/js/2.5918465d.chunk.js"
   },
   {
-    "revision": "f78fe9f259f9882555b2",
-    "url": "/portfolioz-react-template/static/css/main.d444fc50.chunk.css"
+    "revision": "73310fb117a46d3b00ff",
+    "url": "/portfolioz-react-template/static/css/main.1aa87fb1.chunk.css"
   },
   {
     "revision": "5918465d849890407b23",
     "url": "/portfolioz-react-template/static/css/2.1b66ad2e.chunk.css"
   },
   {
-    "revision": "5c41911d59709ba177aa056c951ed15b",
+    "revision": "8d156c71c0fdcd6e0654862f56608f16",
     "url": "/portfolioz-react-template/index.html"
   }
 ];
